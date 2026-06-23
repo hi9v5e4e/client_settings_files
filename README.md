@@ -37,6 +37,10 @@ UPD: Добавьте в клиенте/клиентах приложения и
 
 P.S. В этих конфигурациях я нашёл группы политик (балансировщики), которые автоматически выбирают сервер с быстрым откликом или скоростью (а в Exclave ещё можно настроить, через какое время проводить проверки отклика серверов). Такая популярная настройка есть в Karing и Hiddify например, но почему-то у меня именно в них эта функция работает плохо
 
-![Stars](https://img.shields.io/github/stars/hi9v5e4e/client_settings_files)
+<p align="center">
+  <a href="https://www.star-history.com/#hi9v5e4e/client_settings_files&Date">
+    <img src="https://api.star-history.com/svg?repos=hi9v5e4e/client_settings_files&type=Date" alt="Star History Chart">
+  </a>
+</p>
 
 <h3 align="center">РЕПОЗИТОРИЙ В ДОРАБОТКЕ</h3>
