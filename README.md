@@ -5,7 +5,7 @@
 
 В них находятся подписки @igareck и @zieng2, огромная им благодарность!
 
-Файлы находятся [здесь](https://github.com/hi9v5e4e/client_settings_files/releases), или вкладка `Repositories`.
+Файлы находятся [здесь](https://github.com/hi9v5e4e/client_settings_files/releases), или вкладка `Realeases`.
 
 UPD: Добавьте в клиенте/клиентах приложения из Белого списка, которые будут идти напрямую (типа Яндекс, OZON, Навигатор и т.д.) Я убрал их в файлах на всякий случай.
 
