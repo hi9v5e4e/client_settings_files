@@ -7,7 +7,7 @@
 
 Файлы находятся [здесь](https://github.com/hi9v5e4e/client_settings_files/releases), или вкладка `Repositories`.
 
-# В Exclace
+# В Exclave
 Чтобы добавить файл восстановления в этот клиент, нужно:
 1. Скачать файл `exclave_mobile_23.06.2026.14.16.1.json`
 2. Зайти в приложение
