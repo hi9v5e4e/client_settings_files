@@ -3,6 +3,8 @@
 
 Эти файлы используются в качестве восстановления настроек и конфигураций на мобильных устройствах (используется Android). Пока сделал для  **[Exclave](https://github.com/ExclaveNetwork/Exclave)** и **[v2rayNG](https://github.com/2dust/v2rayNG)**.
 
+Файлы находятся [здесь](https://github.com/hi9v5e4e/client_settings_files/releases), или вкладка `Repositories`.
+
 # В Exclace
 Чтобы добавить файл восстановления в этот клиент, нужно:
 1. Скачать файл `exclave_mobile_23.06.2026.14.16.1.json`
