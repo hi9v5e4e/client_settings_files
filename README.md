@@ -1,5 +1,6 @@
+<h3 align="center">РЕПОЗИТОРИЙ В ДОРАБОТКЕ</h3>
 # client_settings_files
-Собранные файлы настроек клиентов VPN
+Собранные файлы настроек клиентов
 
 Эти файлы используются в качестве восстановления настроек и конфигураций на мобильных устройствах (используется Android). Пока сделал для  **[Exclave](https://github.com/ExclaveNetwork/Exclave)** и **[v2rayNG](https://github.com/2dust/v2rayNG)**.
 
